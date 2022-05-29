@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255 252 250);
+    background-color: rgb(255, 255, 255);
 }
 h1 {
     text-align: center;
@@ -38,6 +38,7 @@ h2 {
     font-family: 'Noto Sans';
     width: 300px;
     margin: 20px auto 20px;
+
 }
 .container{
     display: flex;
